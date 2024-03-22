@@ -1,0 +1,2 @@
+
+sample_text = """It was a dark and stormy night. The wind howled outside, rattling the windows and doors. Rain lashed against the panes, and thunder boomed in the distance. Inside, a young woman sat alone by the fireplace, a book open in her lap. But she wasn't reading. Her eyes were fixed on the flames, her brow furrowed in worry. She was waiting for her husband to return home."""
