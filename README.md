@@ -1,1 +1,1 @@
-# WE-module3
+# WE-module3-GenAi
